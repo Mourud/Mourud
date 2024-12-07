@@ -1,6 +1,6 @@
 # Mourud Ishmam Ahmed  
 
-Software Engineer | Machine Learning Enthusiast | Physics + CS Grad  
+`Software Engineer | Machine Learning Enthusiast | Physics + CS Grad`
 
 🔍 **Building scalable solutions, teaching programming, and creating with code**  
 
