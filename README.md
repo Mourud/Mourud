@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 
-I'm a **software engineer** and **machine learning enthusiast** who loves teaching programming and algorithms, solving coding challenges, and building innovative projects. My background combines a degree in Computer Science and Physics from UBC with hands-on experience at industry leaders like SAP and Unity.  
+I'm a **software engineer** and **machine learning engineer** who loves teaching programming and algorithms, solving coding challenges, and building innovative projects. My background combines a degree in Computer Science and Physics from UBC with hands-on experience at industry leaders like SAP and Unity.  
 
 When I'm not coding, you'll find me competing in hackathons and game jams, creating interactive experiences, or pushing the boundaries of what I can build.  
 
