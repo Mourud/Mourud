@@ -77,7 +77,7 @@ When I'm not coding, you'll find me competing in hackathons and game jams, creat
 
 ## 📫 Let’s Connect  
 
-- **Email:** [](mailto:ishmam1@gmail.com)  
+- **Email:** [Click for mail](mailto:ishmam1@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/mourud](https://www.linkedin.com/in/mourud)  
 - **GitHub:** [github.com/mourud](https://www.github.com/mourud)  
 
