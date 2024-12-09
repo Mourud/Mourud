@@ -31,7 +31,7 @@ When I'm not coding, you'll find me competing in hackathons and game jams, creat
 *Graduated: May 2023*  
 - **IMES Award** recipient  
 - Research Assistant for **UBC Algorithms Lab**  
-- Teaching Assistant for CPSC 320 (Algorithms & Data Structures)  
+- Teaching Assistant for Intermidiate Algorithms & Data Structures (CPSC 320)  
 
 ---
 
