@@ -79,11 +79,10 @@ When I'm not coding, you'll find me competing in hackathons and game jams, creat
 
 - **Email:** [Click for mail](mailto:ishmam1@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/mourud](https://www.linkedin.com/in/mourud)  
-- **GitHub:** [github.com/mourud](https://www.github.com/mourud)  
 
 ---
 
 ## 🚀 Fun Facts  
 
 - I love **teaching programming and algorithms**, helping others break down complex concepts into intuitive ideas.  
-- I enjoy tackling challenges like **Advent of Code** and competing in **hackathons** and **game jams**.  
+- I enjoy tackling challenges like **[Advent of Code](https://www.github.com/mourud/advent-of-code)** and competing in **hackathons** and **game jams**.  
