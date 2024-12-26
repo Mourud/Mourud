@@ -13,7 +13,7 @@ I'm a **software engineer** and **machine learning engineer** who loves teaching
 When I'm not coding, you'll find me competing in hackathons and game jams, creating interactive experiences, or pushing the boundaries of what I can build.  
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mourud&hide=php)](https://github.com/mourud)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mourud&hide=HTML)](https://github.com/mourud)
 ## 🛠️ Skills  
 
 **Programming:** Java, Python, JavaScript, TypeScript, C++, C#, SQL, NoSQL  
